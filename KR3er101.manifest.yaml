@@ -1,0 +1,85 @@
+canonical_identifier: bkk:krp/KR3er101/v1
+canonical_location: https://kanripo.org/bkk/KR3er101/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醫學輯要
+  identifiers:
+    krp: KR3er101
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er101.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3er101_000.yaml, hash: 'sha256:ac7e5db6bc14afd3e891fc247e63e6532dce15374f715d8ba2dc406007f32eeb'}
+  - {seq: 1, filename: KR3er101_001.yaml, hash: 'sha256:3e1959c53873011d50798c05e1ff0ecd4e600778eb3a91ae7b873c060e79ae5f'}
+  - {seq: 2, filename: KR3er101_002.yaml, hash: 'sha256:597d1addf07a9eccfea6ea69c85167451c3e81b059a8af286a172f5dbba6c7aa'}
+  - {seq: 3, filename: KR3er101_003.yaml, hash: 'sha256:c6516feb68ed4eb55d9a3142e33dadf728cd779fba5a99c13b5e1dbf12808d1b'}
+  - {seq: 4, filename: KR3er101_004.yaml, hash: 'sha256:7aa3dbd4b1b9fe721f6db3c7c2957862e2fdcd674d84ca0cb7639cea4df00425'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3er101_000.markers.yaml, hash: 'sha256:fd22e955a1429d5432db6c939ab8aaf453e847e8a4dcc211ee65d049efddcc38'}
+  - {seq: 1, role: markers, filename: assets/KR3er101_001.markers.yaml, hash: 'sha256:d56820f6c80ea21fc95f9295692fc51191925b38f618175abdf02487ab4244c7'}
+  - {seq: 2, role: markers, filename: assets/KR3er101_002.markers.yaml, hash: 'sha256:a3241a0f43440bcf2a4d99ed533faf043def60342473d24947198b5faff07362'}
+  - {seq: 3, role: markers, filename: assets/KR3er101_003.markers.yaml, hash: 'sha256:4b0daeebb10ff4a0062903d3a37ced9bd9c077d2e76b6b00131d1cc466aca242'}
+  - {seq: 4, role: markers, filename: assets/KR3er101_004.markers.yaml, hash: 'sha256:0fd9d2954a58e3e53d648117a7a1105f9f86809b640609833e5db01ee093106f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3er101_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 679
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3er101_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 4658
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3er101_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 14027
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3er101_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 5022
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3er101_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 8451
+  label: 卷四
+  type: section
+  level: 1
+hash: sha256:6b0e3e25c79965c73d56beef088a058882757a21d96990b5cd4b304ba44040c6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
