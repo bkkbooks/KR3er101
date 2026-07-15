@@ -4,8 +4,11 @@ markers:
   front:
   - {type: xml-element, offset: 1, content: '', id: KR3er101_jc_000-d2p2, name: p, role: open, attrs: {'xml:id': KR3er101_jc_000-d2p2}}
   - {type: 'tls:seg', offset: 1, content: '', id: KR3er101_jc_000-d2.p2s1}
+  - {type: substitution, offset: 180, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20391}}
+  - {type: substitution, offset: 445, original: 汎, replacement: 泛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16575}}
+  - {type: substitution, offset: 563, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 651, content: □, id: KR3er101_jc_000-bkkpn1}
   - {type: xml-element, offset: 679, content: '', id: KR3er101_jc_000-d2p2_end, name: p, role: close, attrs: {'xml:id': KR3er101_jc_000-d2p2}}
   body: []
   back: []
-hash: sha256:24ba9c1ab5750b8c763ad62cda6f6a8d9337ad7d5f594bc2770de33e1756cf27
+hash: sha256:0fddc649da541ac76fdb0d1e87a823a5199a9086e9d10c571f16324cd30ddea0
