@@ -313,6 +313,7 @@ markers:
   - {type: xml-element, offset: 1012, content: '', id: KR3er101_jc_004-d6p78, name: p, role: open, attrs: {'xml:id': KR3er101_jc_004-d6p78}}
   - {type: 'tls:seg', offset: 1012, content: '', id: KR3er101_jc_004-d6.p78s1}
   - {type: punctuation, offset: 1014, content: ), id: KR3er101_jc_004-bkkpn132}
+  - {type: 'voice:problem', offset: 1014, length: 0, id: KR3er101_jc_004-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 1014 with no matching '('}
   - {type: 'tls:seg-start', offset: 1017, content: '', id: KR3er101_jc_004-d6.p78s2, seg_type: comm, member_ids: [KR3er101_jc_004-d6.p78s2, KR3er101_jc_004-d6.p78s3]}
   - {type: 'tls:seg', offset: 1017, content: '', id: KR3er101_jc_004-d6.p78s2}
   - {type: punctuation, offset: 1017, content: （, id: KR3er101_jc_004-bkkpn133}
@@ -1113,4 +1114,4 @@ markers:
   - {type: punctuation, offset: 8447, content: □, id: KR3er101_jc_004-bkkpn385}
   - {type: xml-element, offset: 8451, content: '', id: KR3er101_jc_004-d6p282_end, name: p, role: close, attrs: {'xml:id': KR3er101_jc_004-d6p282}}
   back: []
-hash: sha256:c51c11a283e22b6d80f859198d5ea5eceb1efb2c5582194ebe24d4fd6b79d43f
+hash: sha256:e51db29bf5c9e7fd3e1297de6df59dd361e179ef82d3865aa23fe31233987dcd
