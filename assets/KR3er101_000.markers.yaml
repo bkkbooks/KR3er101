@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR3er101/bkk/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: xml-element, offset: 1, content: '', id: KR3er101_jc_000-d2p2, name: p, role: open, attrs: {'xml:id': KR3er101_jc_000-d2p2}}
   - {type: 'tls:seg', offset: 1, content: '', id: KR3er101_jc_000-d2.p2s1}
   - {type: substitution, offset: 180, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20391}}
@@ -9,6 +9,5 @@ markers:
   - {type: substitution, offset: 563, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 651, content: □, id: KR3er101_jc_000-bkkpn1}
   - {type: xml-element, offset: 679, content: '', id: KR3er101_jc_000-d2p2_end, name: p, role: close, attrs: {'xml:id': KR3er101_jc_000-d2p2}}
-  body: []
   back: []
-hash: sha256:0fddc649da541ac76fdb0d1e87a823a5199a9086e9d10c571f16324cd30ddea0
+hash: sha256:335048fd3510dc47917c960dd99f8b5d50e99b17cdef3ba7621b13f4b243aab1
